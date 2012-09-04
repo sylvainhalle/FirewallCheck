@@ -1,0 +1,4 @@
+# A simple network to test things with
+
+examples/node-1.txt
+examples/node-2.txt
